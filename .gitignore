@@ -19,6 +19,7 @@ profile.cov
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+qdrant_storage
 
 # Go workspace file
 go.work
